@@ -4,13 +4,13 @@
 print(144 + 255)
 
 # Obtener 3 al cuadrado
-# print(3 ** ___) 
+print(3 ** 2) 
 
 # Calcular e imprimir 9 multiplicado por 2
-# print(____ ___ ____)
+print(9 * 2)
 
 # Imprimir el resultado de dividir 120 entre 2
-# _____( ___ _ __)
+print(120 / 2)
 
 
 
