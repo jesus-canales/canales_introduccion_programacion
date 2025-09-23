@@ -36,3 +36,6 @@ from datetime import date
 fecha_clase = date(2025, 9, 22) # (yyyy, mm, dd)
 print(fecha_clase)
 print(f"La fecha de hoy es: {fecha_clase}")
+
+fecha_formateada = fecha_clase.strftime("%d/%m/%Y")
+print(f"La fecha con formato es: {fecha_formateada}")
