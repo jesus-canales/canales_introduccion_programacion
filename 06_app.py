@@ -35,3 +35,6 @@ print(f"Fecha de cumpleaños: {fecha_cumple}")
 fecha_formateada = fecha_cumple.strftime("%d/%m/%Y")
 print(f"La fecha formateada es: {fecha_formateada}")
 print(type(fecha_cumple))
+
+
+# Clase terminada
