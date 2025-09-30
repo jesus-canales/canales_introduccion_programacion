@@ -2,9 +2,9 @@ comprobante = "boleta"
 monto = 100
 
 if comprobante == "factura":
-    monto_igv = monto * 0.18
-    monto_a_pagar = monto + monto_igv
-    print(f"El monto total a pagar con factura es: {monto_a_pagar}")
+    igv = monto * 0.18
+    pagar = monto + igv
+    print(f"El monto total a pagar con factura es: {pagar}")
 elif comprobante == "boleta":
     print(f"El monto total a pagar con boleta es: {monto}")
 else:
