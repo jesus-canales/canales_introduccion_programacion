@@ -12,7 +12,7 @@
 # nota 12.5 - 16: Aprobado (condición 2)
 # nota 17 - 20: Muy bien, sigue así. (última condición)
 
-nota = 18
+nota = 0
 
 if nota <= 12.4:
     print(f"Ud. a desaprobado el curso, su nota es: {nota}")
