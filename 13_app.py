@@ -6,7 +6,7 @@
 # else:
 #   instrucciones a ejecutar si la condición es falsa
 
-nota = 20
+nota = 15
 
 if nota >= 12.5:
     print(f"Ud. a aprobado el curso, su nota es: {nota}")
