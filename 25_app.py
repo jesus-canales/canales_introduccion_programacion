@@ -8,3 +8,5 @@ print(elementos)
 
 # Imprimir los 3 primeros elementos
 print(elementos[0:3])
+
+print(elementos[0:2])
