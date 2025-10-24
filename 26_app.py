@@ -11,3 +11,6 @@ print(estudiantes[0])
 
 # Imprimiendo los 2 últimos elementos de la lista
 print(estudiantes[1:3])
+
+# Obtener la cantidad de elementos que tiene una lista
+print(len(estudiantes))
