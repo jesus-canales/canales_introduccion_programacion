@@ -8,3 +8,6 @@ print(diasSemana)
 
 # Imprimir el tercer elemento
 print(diasSemana[2]) # posición de indexación
+
+# Imprime el 5 elemento
+print(diasSemana[4])
