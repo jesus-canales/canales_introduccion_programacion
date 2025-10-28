@@ -10,5 +10,7 @@ print("Recursos Humanos" in areas)
 print("Recursos humanos" in areas)
 
 # Buscar contabilidad
+print("contabilidad" in areas)
 
 # Buscar Sistemas
+print("Sistemas" in areas)
