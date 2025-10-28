@@ -15,4 +15,7 @@ print(meses)
 # Agregar un elemento de número
 meses.append(123)
 
+# Agregar los meses hasta el mes de Octubre
+meses.extend(["Mayo", "Junio", "Julio", "Setiembre", "Octubre"])
+
 print(meses)
